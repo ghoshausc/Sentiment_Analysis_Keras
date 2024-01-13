@@ -1,0 +1,3 @@
+pip install keras
+pip install pydot
+pip install tensorflow
