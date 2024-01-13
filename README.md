@@ -1,3 +1,1 @@
-Anindita Ghosh
-USC ID : 3898202691
-DSCI 552 Final project
+# Sentiment Analysis using MLP, CNN and LSTM in Keras
